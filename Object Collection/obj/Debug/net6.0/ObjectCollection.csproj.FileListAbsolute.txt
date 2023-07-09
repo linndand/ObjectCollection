@@ -1,0 +1,15 @@
+D:\UAY\smt02\Pemrograman\Object Collection\Object Collection\bin\Debug\net6.0\ObjectCollection.exe
+D:\UAY\smt02\Pemrograman\Object Collection\Object Collection\bin\Debug\net6.0\ObjectCollection.deps.json
+D:\UAY\smt02\Pemrograman\Object Collection\Object Collection\bin\Debug\net6.0\ObjectCollection.runtimeconfig.json
+D:\UAY\smt02\Pemrograman\Object Collection\Object Collection\bin\Debug\net6.0\ObjectCollection.dll
+D:\UAY\smt02\Pemrograman\Object Collection\Object Collection\bin\Debug\net6.0\ObjectCollection.pdb
+D:\UAY\smt02\Pemrograman\Object Collection\Object Collection\obj\Debug\net6.0\ObjectCollection.csproj.AssemblyReference.cache
+D:\UAY\smt02\Pemrograman\Object Collection\Object Collection\obj\Debug\net6.0\ObjectCollection.GeneratedMSBuildEditorConfig.editorconfig
+D:\UAY\smt02\Pemrograman\Object Collection\Object Collection\obj\Debug\net6.0\ObjectCollection.AssemblyInfoInputs.cache
+D:\UAY\smt02\Pemrograman\Object Collection\Object Collection\obj\Debug\net6.0\ObjectCollection.AssemblyInfo.cs
+D:\UAY\smt02\Pemrograman\Object Collection\Object Collection\obj\Debug\net6.0\ObjectCollection.csproj.CoreCompileInputs.cache
+D:\UAY\smt02\Pemrograman\Object Collection\Object Collection\obj\Debug\net6.0\ObjectCollection.dll
+D:\UAY\smt02\Pemrograman\Object Collection\Object Collection\obj\Debug\net6.0\refint\ObjectCollection.dll
+D:\UAY\smt02\Pemrograman\Object Collection\Object Collection\obj\Debug\net6.0\ObjectCollection.pdb
+D:\UAY\smt02\Pemrograman\Object Collection\Object Collection\obj\Debug\net6.0\ObjectCollection.genruntimeconfig.cache
+D:\UAY\smt02\Pemrograman\Object Collection\Object Collection\obj\Debug\net6.0\ref\ObjectCollection.dll
